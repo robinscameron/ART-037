@@ -58,6 +58,15 @@ i {
   
 }
 
+.note
+{
+    font-family:'Berthold Akzidenz Grotesk BE', sans-Serif;
+    font-size: 18px;
+    font-weight: 500;
+
+  
+}
+
 .title {
     font-family:'Berthold Akzidenz Grotesk BE', sans-Serif;
     font-size: 15px;
@@ -117,6 +126,7 @@ margin:20;
     padding: 20px 10px 10px 10px;
       font-size: 12px;
       line-height: 1.1;
+      width: 500px;
 
 }
 
