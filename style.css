@@ -170,19 +170,17 @@ a:hover {
   grid-template-columns: 200px, auto;
 }
 
-.last-row
+.last-row-fifteen
 {
     width: auto;
     height: auto;
     padding: 10px 10px 10px 10px;
     border-right: 1px solid white;
     border-left: 1px solid white;
-    display: grid;
-    grid-template-columns: 300px auto;
     border-bottom:1px solid white;
-
     display: grid;
-  grid-template-columns: 200px, auto;
+   
+  grid-template-columns: auto;
 }
 
 .section {
@@ -231,4 +229,8 @@ blockquote {
   background-color:purple;
   width:75vw;
 
+}
+
+.schedule {
+  width:200px;
 }
