@@ -232,5 +232,5 @@ blockquote {
 }
 
 .schedule {
-  grid-template-columns: 1fr;
+  width:!important 200px;
 }
