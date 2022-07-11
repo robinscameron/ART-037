@@ -126,7 +126,7 @@ margin:20;
     padding: 20px 10px 10px 10px;
       font-size: 12px;
       line-height: 1.1;
-      width: 500px;
+      width:!important 500px;
 
 }
 
@@ -232,5 +232,5 @@ blockquote {
 }
 
 .schedule {
-  width:250px;
+  width:200px;
 }
